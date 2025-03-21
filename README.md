@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HS2 Data Engineer](https://siorconsulting.com/our-team/)
 
-- 🌱 I’m currently learning **Geodata Engineer with Azure**
+- 🌱 I’m currently learning **Geodata Engineer with Azure and Databricks**
 
 - 👯 I’m looking to collaborate on **Geospatial Data Analysis Projects**
 
